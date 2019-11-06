@@ -1,0 +1,21 @@
+{
+    "name": "vue-html-syntax-highlighter",
+    "displayName": "Vue HTML syntax highlighter",
+    "description": "Highlight vue expression synthax in normal html files to used with class decorator components",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "grammars": [
+          {
+            "path": "./syntaxes/.tmLanguage.json",
+            "scopeName": "html.vue",
+            "injectTo": ["text.html"]
+          }
+        ]
+      }
+}

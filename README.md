@@ -19,7 +19,6 @@ This project provide vuejs synthax coloration for simple HTML files in VsCode. T
 **method 2**
 ```
 1) Clone the repo
-2) run "npm install"
 3) Create your own VSIX installer (https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 4) Install the VSIX on your VsCode
 ```

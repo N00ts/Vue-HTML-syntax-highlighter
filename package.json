@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/N00ts/Vue-HTML-syntax-highlighter.git"
   },
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.39.0"
   },

@@ -10,17 +10,17 @@ This project provide vuejs synthax coloration for simple HTML files in VsCode. T
 
 # Intall
 
-**method 1**<br/>
+**method 1**
 ```
-1) Type "Vue HTML syntax highlighter" on market palce
+1) Type "Vue HTML syntax highlighter" on market place
 2) Install the extension
 ```
 
-**method 2**<br/>
+**method 2**
 ```
-1) Clone the repo<br/>
-2) run "npm install"<br/>
-3) Create your own VSIX installer (https://code.visualstudio.com/api/working-with-extensions/publishing-extension)<br/>
+1) Clone the repo
+2) run "npm install"
+3) Create your own VSIX installer (https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 4) Install the VSIX on your VsCode
 ```
 

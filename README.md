@@ -5,13 +5,13 @@ Caution: this will be applied to all your Hhtml files
 
 # Intall
 
-1) Clone the repo
-2) run "npm install"
-3) Create your own VSIX installer
-4) Install on your environment
+1) Clone the repo<br/>
+2) run "npm install"<br/>
+3) Create your own VSIX installer<br/>
+4) Install on your environment<br/>
 https://code.visualstudio.com/api/working-with-extensions/publishing-extension
 
 # Source 
 
-This was inspired by 
+This was inspired by<br/> 
 https://github.com/vuejs/vue-syntax-highlight

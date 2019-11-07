@@ -8,4 +8,10 @@ Caution: this will be applied to all your Hhtml files
 1) Clone the repo
 2) run "npm install"
 3) Create your own VSIX installer
+4) Install on your environment
 https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+
+# Source 
+
+This was inspired by 
+https://github.com/vuejs/vue-syntax-highlight

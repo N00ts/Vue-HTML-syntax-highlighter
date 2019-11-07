@@ -18,5 +18,5 @@ This project provide vuejs synthax coloration for simple HTML files in VsCode. T
 
 # Source 
 
-This was inspired by<br/> 
-https://github.com/vuejs/vue-syntax-highlight
+This was inspired by vetur tmLanguage<br/> 
+https://github.com/vuejs/vetur

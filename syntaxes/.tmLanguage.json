@@ -746,22 +746,22 @@
 			"end": "(?<='|\")",
 			"captures": {
 				"1": {
-					"name": "keyword.control"
+				  "name": "entity.other.attribute-name.html"
 				},
 				"2": {
-					"name": "keyword.control"
+				  "name": "punctuation.separator.key-value.html"
 				},
 				"3": {
-					"name": "keyword.control"
+				  "name": "entity.other.attribute-name.html"
 				},
 				"4": {
-					"name": "keyword.control"
+				  "name": "entity.other.attribute-name.html"
 				},
 				"5": {
-					"name": "keyword.control"
+				  "name": "entity.other.attribute-name.html"
 				},
 				"6": {
-					"name": "keyword.control"
+				  "name": "punctuation.separator.key-value.html"
 				}
 			},
 			"patterns": [

@@ -1,4 +1,4 @@
-# vue-html-syntax-highlighter README
+# Intro
 
 This project provide vuejs synthax coloration for simple HTML files in VsCode when using typescript with "vue-template-loader" and "vue-property-decorator". As long as the Template is separated from the implementation, pluggins like vetur are not working.
 Caution: this will be applied to all your html files

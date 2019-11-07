@@ -4,6 +4,7 @@
   "displayName": "Vue HTML syntax highlighter",
   "description": "Highlight vue expression synthax in normal html files to used with class decorator components",
   "icon": "images/vuelogo.png",
+  "homepage": "https://github.com/N00ts/Vue-HTML-syntax-highlighter/blob/master/README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/N00ts/Vue-HTML-syntax-highlighter"
